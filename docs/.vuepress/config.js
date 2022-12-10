@@ -4,7 +4,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 export default {
     head: [['link', { rel: 'icon', href: './images/dimo.png' }]],//网站图标
-    base:'/kivi/',
+    base:'/',
     title: "插件官网",
     description:'Kivibot插件官网，丰富的插件内容与开发技巧，助力开发者成长！',
     theme: defaultTheme({//设置主题
