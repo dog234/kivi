@@ -62,13 +62,13 @@ npm publish
 可以到[npmjs平台](https://www.npmjs.com/)更改你的packages信息。
 
 ## 展示文档
-为了使别人直接看到插件的功能，指令等。
+为了使别人直接看到插件的功能，指令等。<br>
 你可以在文件夹下，创建**README.md**文件显示插件相关内容。
 
-README.md以markdown语法编写，
-可到[markdown语法](https://markdown.com.cn/editor/)学习文档的编写。
-或参考别人的md写法：
-[示例1](https://www.npmjs.com/package/kivibot-plugin-chatgpt?activeTab=explore)
+README.md以markdown语法编写，<br>
+可到[markdown语法](https://markdown.com.cn/editor/)学习文档的编写。<br>
+或参考别人的md写法：<br>
+[示例1](https://www.npmjs.com/package/kivibot-plugin-chatgpt?activeTab=explore)<br>
 [实例2](https://www.npmjs.com/package/kivibot-plugin-mcmotd?activeTab=explore)
 
 
