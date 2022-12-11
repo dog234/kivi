@@ -4,8 +4,8 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 export default {
     head: [['link', { rel: 'icon', href: './images/dimo.png' }]],//网站图标
-    base:'/',
-    title: "插件官网",
+    base:'/kiviplugin/',
+    title: "插件官网 1.0.0",
     description:'Kivibot插件官网，丰富的插件内容与开发技巧，助力开发者成长！',
     theme: defaultTheme({//设置主题
       logo: '/images/logo.png',
@@ -32,16 +32,20 @@ export default {
           link: '/',
           active: '/'
         },{
-          text: '新版插件',
+          text: '插件列表',
           link: '/new/',
-        },
-        {
-          text: '0.8.x插件',
-          link: '/old/',
         },
         {
           text: '开发入门',
           link: '/skill/',
+        },
+        {
+          text: '发布插件',
+          link: '/push/',
+        },
+        {
+          text: '框架API',
+          link: '/api/',
         },
       ],
     }),
