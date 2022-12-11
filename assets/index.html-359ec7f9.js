@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744497ce","path":"/api/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"框架API","slug":"框架api","link":"#框架api","children":[]}],"git":{"updatedTime":1670738886000,"contributors":[{"name":"dog234","email":"106546046+dog234@users.noreply.github.com","commits":1}]},"filePathRelative":"api/index.md"}');export{e as data};

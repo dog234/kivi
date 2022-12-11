@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as s}from"./framework-7e1a102e.js";const c={},o=e("h2",{id:"框架api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#框架api","aria-hidden":"true"},"#"),s(" 框架API")],-1),r=e("p",null,"完善中..",-1),_=[o,r];function d(i,l){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

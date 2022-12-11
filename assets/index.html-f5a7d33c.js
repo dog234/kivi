@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744a5908","path":"/new/","title":"插件列表","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1670738514000,"contributors":[{"name":"dog234","email":"106546046+dog234@users.noreply.github.com","commits":1},{"name":"“dog234”","email":"“1706328818@qq.com”","commits":1}]},"filePathRelative":"new/index.md"}');export{e as data};
