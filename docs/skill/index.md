@@ -136,3 +136,10 @@ if(raw_message.startsWith('点歌')){
     //执行代码
 }
 ```
+## *发送图文*
+```js
+const{segment}= require('oicq')
+var img =segment.image(https://)
+var msg ='xxx'
+event.reply([img,msg])
+```
